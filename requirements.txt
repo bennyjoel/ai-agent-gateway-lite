@@ -1,0 +1,1 @@
+# Zero required external dependencies — uses Python standard library async I/O
